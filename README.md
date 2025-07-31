@@ -9,9 +9,7 @@ A lightweight desktop application that recommends security policies based on use
 ├── pro.py # Main Python application (GUI + logic)
 └── recommendation_model.pkl # Pre-trained SVM model for prediction
 
-yaml
-Copy
-Edit
+
 ```
 ---
 
@@ -32,8 +30,7 @@ Edit
 Run the App:
 
 ```bash
-Copy
-Edit
+
 python pro.py
 ```
 ---
