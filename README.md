@@ -31,7 +31,7 @@ Run the App:
 
 ```bash
 
-python pro.py
+python app.py
 ```
 ---
 
